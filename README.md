@@ -6,6 +6,10 @@ The Chef Management Console is a proprietary addon for the Chef Server. This rep
 
 If you need to file an issue against another Chef project, you can find a list of projects and where to file issues in the [community contributions section](https://docs.chef.io/community_contributions.html#issues-and-bug-reports) of the [Chef docs](https://docs.chef.io).
 
+# Vision
+
+The vision statement for the Chef Management Console can be found in the [VISION.md](VISION.md) file.
+
 # License
 
 All files in the repository are licensed under the Apache 2.0 license. If any file is missing the License header it should assume the following is attached:
