@@ -10,6 +10,10 @@ If you need to file an issue against another Chef project, you can find a list o
 
 The vision statement for the Chef Management Console can be found in the [VISION.md](VISION.md) file.
 
+# Change Log
+
+The change log for the Chef Management Console can be found in the [CHANGELOG.md](CHANGELOG.md) file.
+
 # License
 
 All files in the repository are licensed under the Apache 2.0 license. If any file is missing the License header it should assume the following is attached:
