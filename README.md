@@ -4,6 +4,9 @@ This repository is for opening bugs and issues against the Chef Management Conso
 
 The Chef Management Console is a proprietary addon for the Chef Server. This repository serves as a public place for the reporting of bugs and issues, as well as a place to track their progress.
 
+Feature requests can be opened through the
+[Chef Product Feedback Forum](https://feedback.chef.io/forums/301644-chef-product-feedback/category/110835-chef-management-console).
+
 If you need to file an issue against another Chef project, you can find a list of projects and where to file issues in the [community contributions section](https://docs.chef.io/community_contributions.html#issues-and-bug-reports) of the [Chef docs](https://docs.chef.io).
 
 # Documentation
