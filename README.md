@@ -32,7 +32,7 @@ The change log for the Chef Management Console can be found in the [CHANGELOG.md
 All files in the repository are licensed under the Apache 2.0 license. If any file is missing the License header it should assume the following is attached:
 
 ```
-Copyright 2015 Chef Software Inc
+Copyright 2015-2016 Chef Software Inc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -47,5 +47,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-Note that the above license applies to this respository, not to the Chef Management Console itself. The Chef Management Console is Copyright Chef Software 2012-2015, All Rights Reserved.
+Note that the above license applies to this respository, not to the Chef Management Console itself. The Chef Management Console is Copyright Chef Software 2012-2016, All Rights Reserved.
 
